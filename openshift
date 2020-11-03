@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T06:21:34.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="Rwffzslu658_jj8RP_60" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T06:22:39.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="lzhz10lmFbAUQVB5P8OB" version="13.8.8" type="github">
   <diagram id="YVEOzz7eivrSBefE1X6-" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EQMDZ2INKsZvrHhrW0qX-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="690" height="690" as="geometry" />
+          <mxGeometry x="40" y="120" width="610" height="610" as="geometry" />
         </mxCell>
         <mxCell id="EQMDZ2INKsZvrHhrW0qX-2" value="Openshift Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="120" height="40" as="geometry" />
